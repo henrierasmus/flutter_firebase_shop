@@ -1,0 +1,1249 @@
+[
+  {
+    "area": "Starks",
+    "shops": [
+      {
+        "name": "GENMEX",
+        "address": "971 Will Place, Snyderville, North Carolina, 9055",
+        "about": "velit",
+        "rating": 1.32,
+        "products": [
+          {
+            "id": 0,
+            "productName": "tempor",
+            "productCategory": "amet",
+            "productBasePrice": 641.6,
+            "productVariantType": "Size",
+            "productBaseVariant": "nisi",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 49,
+                "productVariantName": "nisi"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 36,
+                "productVariantName": "ut"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 50,
+                "productVariantName": "velit"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "reprehenderit",
+            "productCategory": "sint",
+            "productBasePrice": 348,
+            "productVariantType": "Size",
+            "productBaseVariant": "ut",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 50,
+                "productVariantName": "consequat"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "nisi",
+            "productCategory": "exercitation",
+            "productBasePrice": 477.97,
+            "productVariantType": "Size",
+            "productBaseVariant": "laboris",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 5,
+                "productVariantName": "Lorem"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 28,
+                "productVariantName": "commodo"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "productName": "adipisicing",
+            "productCategory": "mollit",
+            "productBasePrice": 353.86,
+            "productVariantType": "Color",
+            "productBaseVariant": "voluptate",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 2,
+                "productVariantName": "fugiat"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 12,
+                "productVariantName": "est"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 28,
+                "productVariantName": "tempor"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "productName": "ullamco",
+            "productCategory": "fugiat",
+            "productBasePrice": 788.24,
+            "productVariantType": "Size",
+            "productBaseVariant": "do",
+            "productVariants": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "area": "Callaghan",
+    "shops": [
+      {
+        "name": "TINGLES",
+        "address": "685 Montana Place, Elwood, Illinois, 8924",
+        "about": "quis",
+        "rating": 3.26,
+        "products": [
+          {
+            "id": 0,
+            "productName": "duis",
+            "productCategory": "et",
+            "productBasePrice": 52.42,
+            "productVariantType": "Size",
+            "productBaseVariant": "consequat",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 37,
+                "productVariantName": "tempor"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 23,
+                "productVariantName": "labore"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "adipisicing",
+            "productCategory": "labore",
+            "productBasePrice": 680.33,
+            "productVariantType": "Color",
+            "productBaseVariant": "tempor",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 34,
+                "productVariantName": "reprehenderit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "GRUPOLI",
+        "address": "193 Willow Place, Tetherow, American Samoa, 6660",
+        "about": "culpa",
+        "rating": 2.04,
+        "products": [
+          {
+            "id": 0,
+            "productName": "sunt",
+            "productCategory": "eu",
+            "productBasePrice": 136.39,
+            "productVariantType": "Size",
+            "productBaseVariant": "in",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 0,
+                "productVariantName": "irure"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "elit",
+            "productCategory": "incididunt",
+            "productBasePrice": 740.07,
+            "productVariantType": "Color",
+            "productBaseVariant": "elit",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 22,
+                "productVariantName": "est"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 26,
+                "productVariantName": "consequat"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "voluptate",
+            "productCategory": "eiusmod",
+            "productBasePrice": 964.31,
+            "productVariantType": "Color",
+            "productBaseVariant": "ad",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 23,
+                "productVariantName": "in"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 3,
+                "productVariantName": "commodo"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 14,
+                "productVariantName": "irure"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 37,
+                "productVariantName": "sint"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "productName": "nisi",
+            "productCategory": "consectetur",
+            "productBasePrice": 417.24,
+            "productVariantType": "Size",
+            "productBaseVariant": "commodo",
+            "productVariants": []
+          },
+          {
+            "id": 4,
+            "productName": "irure",
+            "productCategory": "aliqua",
+            "productBasePrice": 948.45,
+            "productVariantType": "Size",
+            "productBaseVariant": "excepteur",
+            "productVariants": []
+          }
+        ]
+      },
+      {
+        "name": "COMTOUR",
+        "address": "910 Dearborn Court, Cecilia, Nebraska, 1636",
+        "about": "nostrud",
+        "rating": 3.36,
+        "products": [
+          {
+            "id": 0,
+            "productName": "ea",
+            "productCategory": "eu",
+            "productBasePrice": 39.5,
+            "productVariantType": "Size",
+            "productBaseVariant": "commodo",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 16,
+                "productVariantName": "velit"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 34,
+                "productVariantName": "consectetur"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "laboris",
+            "productCategory": "dolore",
+            "productBasePrice": 872.61,
+            "productVariantType": "Size",
+            "productBaseVariant": "velit",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 20,
+                "productVariantName": "irure"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 23,
+                "productVariantName": "proident"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "id",
+            "productCategory": "id",
+            "productBasePrice": 337.22,
+            "productVariantType": "Size",
+            "productBaseVariant": "proident",
+            "productVariants": []
+          }
+        ]
+      },
+      {
+        "name": "STEELTAB",
+        "address": "277 Goodwin Place, Kanauga, Puerto Rico, 1785",
+        "about": "culpa",
+        "rating": 2.06,
+        "products": [
+          {
+            "id": 0,
+            "productName": "ea",
+            "productCategory": "reprehenderit",
+            "productBasePrice": 71.32,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "excepteur",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 14,
+                "productVariantName": "esse"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 12,
+                "productVariantName": "magna"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 30,
+                "productVariantName": "et"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 23,
+                "productVariantName": "consectetur"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "esse",
+            "productCategory": "ullamco",
+            "productBasePrice": 951.72,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "sint",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 50,
+                "productVariantName": "elit"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 3,
+                "productVariantName": "do"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 30,
+                "productVariantName": "non"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 28,
+                "productVariantName": "irure"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "voluptate",
+            "productCategory": "sint",
+            "productBasePrice": 566.61,
+            "productVariantType": "Size",
+            "productBaseVariant": "laborum",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 5,
+                "productVariantName": "duis"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 14,
+                "productVariantName": "qui"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 15,
+                "productVariantName": "voluptate"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "productName": "officia",
+            "productCategory": "incididunt",
+            "productBasePrice": 740.62,
+            "productVariantType": "Color",
+            "productBaseVariant": "excepteur",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 26,
+                "productVariantName": "quis"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "area": "Herlong",
+    "shops": [
+      {
+        "name": "SCHOOLIO",
+        "address": "233 Chauncey Street, Driftwood, Oklahoma, 9623",
+        "about": "proident",
+        "rating": 0.81,
+        "products": [
+          {
+            "id": 0,
+            "productName": "esse",
+            "productCategory": "cillum",
+            "productBasePrice": 137.28,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "velit",
+            "productVariants": []
+          },
+          {
+            "id": 1,
+            "productName": "id",
+            "productCategory": "dolore",
+            "productBasePrice": 467.11,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "ullamco",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 14,
+                "productVariantName": "pariatur"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 22,
+                "productVariantName": "cupidatat"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 21,
+                "productVariantName": "qui"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 10,
+                "productVariantName": "reprehenderit"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "sint",
+            "productCategory": "nisi",
+            "productBasePrice": 80.87,
+            "productVariantType": "Size",
+            "productBaseVariant": "qui",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 23,
+                "productVariantName": "ut"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 21,
+                "productVariantName": "est"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 42,
+                "productVariantName": "cillum"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 8,
+                "productVariantName": "sit"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "HAWKSTER",
+        "address": "383 Hinckley Place, Clinton, Federated States Of Micronesia, 6838",
+        "about": "mollit",
+        "rating": 4.65,
+        "products": [
+          {
+            "id": 0,
+            "productName": "anim",
+            "productCategory": "id",
+            "productBasePrice": 78.06,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "exercitation",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 49,
+                "productVariantName": "amet"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 19,
+                "productVariantName": "excepteur"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 42,
+                "productVariantName": "fugiat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ROCKLOGIC",
+        "address": "207 Hanover Place, Reno, Virgin Islands, 865",
+        "about": "aute",
+        "rating": 1.14,
+        "products": [
+          {
+            "id": 0,
+            "productName": "mollit",
+            "productCategory": "quis",
+            "productBasePrice": 479.27,
+            "productVariantType": "Size",
+            "productBaseVariant": "duis",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 5,
+                "productVariantName": "tempor"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 2,
+                "productVariantName": "sit"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "est",
+            "productCategory": "aliqua",
+            "productBasePrice": 325.88,
+            "productVariantType": "Color",
+            "productBaseVariant": "commodo",
+            "productVariants": []
+          },
+          {
+            "id": 2,
+            "productName": "sint",
+            "productCategory": "sit",
+            "productBasePrice": 75.96,
+            "productVariantType": "Color",
+            "productBaseVariant": "id",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 47,
+                "productVariantName": "ipsum"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 10,
+                "productVariantName": "labore"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 22,
+                "productVariantName": "sunt"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 25,
+                "productVariantName": "et"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "productName": "ad",
+            "productCategory": "ipsum",
+            "productBasePrice": 419.44,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "eiusmod",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 40,
+                "productVariantName": "qui"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 37,
+                "productVariantName": "proident"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "productName": "dolor",
+            "productCategory": "eu",
+            "productBasePrice": 445.05,
+            "productVariantType": "Color",
+            "productBaseVariant": "duis",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 40,
+                "productVariantName": "excepteur"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 20,
+                "productVariantName": "ut"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 45,
+                "productVariantName": "ex"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "KIDGREASE",
+        "address": "247 Corbin Place, Movico, Alabama, 142",
+        "about": "commodo",
+        "rating": 1.15,
+        "products": [
+          {
+            "id": 0,
+            "productName": "sit",
+            "productCategory": "reprehenderit",
+            "productBasePrice": 145.25,
+            "productVariantType": "Color",
+            "productBaseVariant": "est",
+            "productVariants": []
+          },
+          {
+            "id": 1,
+            "productName": "aliquip",
+            "productCategory": "culpa",
+            "productBasePrice": 584.75,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "sint",
+            "productVariants": []
+          },
+          {
+            "id": 2,
+            "productName": "incididunt",
+            "productCategory": "excepteur",
+            "productBasePrice": 638,
+            "productVariantType": "Color",
+            "productBaseVariant": "ullamco",
+            "productVariants": []
+          },
+          {
+            "id": 3,
+            "productName": "qui",
+            "productCategory": "dolore",
+            "productBasePrice": 386.8,
+            "productVariantType": "Size",
+            "productBaseVariant": "deserunt",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 12,
+                "productVariantName": "aliquip"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 40,
+                "productVariantName": "ipsum"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 3,
+                "productVariantName": "nulla"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "area": "Brewster",
+    "shops": [
+      {
+        "name": "COMSTAR",
+        "address": "570 Highlawn Avenue, Kennedyville, Kentucky, 9008",
+        "about": "velit",
+        "rating": 0.31,
+        "products": [
+          {
+            "id": 0,
+            "productName": "proident",
+            "productCategory": "esse",
+            "productBasePrice": 636.54,
+            "productVariantType": "Color",
+            "productBaseVariant": "officia",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 14,
+                "productVariantName": "cupidatat"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "incididunt",
+            "productCategory": "officia",
+            "productBasePrice": 465.18,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "non",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 2,
+                "productVariantName": "consequat"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 46,
+                "productVariantName": "officia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "PLASTO",
+        "address": "442 Girard Street, Harmon, New Jersey, 7161",
+        "about": "duis",
+        "rating": 0.12,
+        "products": [
+          {
+            "id": 0,
+            "productName": "ad",
+            "productCategory": "est",
+            "productBasePrice": 214.19,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "irure",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 37,
+                "productVariantName": "quis"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 18,
+                "productVariantName": "proident"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 37,
+                "productVariantName": "mollit"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "dolor",
+            "productCategory": "et",
+            "productBasePrice": 127.17,
+            "productVariantType": "Color",
+            "productBaseVariant": "amet",
+            "productVariants": []
+          },
+          {
+            "id": 2,
+            "productName": "irure",
+            "productCategory": "fugiat",
+            "productBasePrice": 760.78,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "aliqua",
+            "productVariants": []
+          }
+        ]
+      },
+      {
+        "name": "GINK",
+        "address": "226 Putnam Avenue, Conway, Pennsylvania, 9166",
+        "about": "ea",
+        "rating": 2.07,
+        "products": [
+          {
+            "id": 0,
+            "productName": "Lorem",
+            "productCategory": "et",
+            "productBasePrice": 227.42,
+            "productVariantType": "Size",
+            "productBaseVariant": "sint",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 28,
+                "productVariantName": "laborum"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 2,
+                "productVariantName": "ex"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 11,
+                "productVariantName": "nulla"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "aliqua",
+            "productCategory": "adipisicing",
+            "productBasePrice": 664.83,
+            "productVariantType": "Color",
+            "productBaseVariant": "consectetur",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 44,
+                "productVariantName": "id"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "area": "Goodville",
+    "shops": [
+      {
+        "name": "DAISU",
+        "address": "227 Caton Place, Gibsonia, Indiana, 4347",
+        "about": "duis",
+        "rating": 2.96,
+        "products": [
+          {
+            "id": 0,
+            "productName": "adipisicing",
+            "productCategory": "velit",
+            "productBasePrice": 379.01,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "ut",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 26,
+                "productVariantName": "fugiat"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 6,
+                "productVariantName": "anim"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 19,
+                "productVariantName": "reprehenderit"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "culpa",
+            "productCategory": "ut",
+            "productBasePrice": 457.91,
+            "productVariantType": "Size",
+            "productBaseVariant": "laborum",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 2,
+                "productVariantName": "cillum"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 27,
+                "productVariantName": "laboris"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "ullamco",
+            "productCategory": "voluptate",
+            "productBasePrice": 533,
+            "productVariantType": "Color",
+            "productBaseVariant": "elit",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 44,
+                "productVariantName": "nisi"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 5,
+                "productVariantName": "cupidatat"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 32,
+                "productVariantName": "nostrud"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 9,
+                "productVariantName": "commodo"
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "productName": "incididunt",
+            "productCategory": "dolore",
+            "productBasePrice": 48.41,
+            "productVariantType": "Size",
+            "productBaseVariant": "do",
+            "productVariants": []
+          }
+        ]
+      },
+      {
+        "name": "RAMJOB",
+        "address": "932 Riverdale Avenue, Boonville, Palau, 4550",
+        "about": "adipisicing",
+        "rating": 4.29,
+        "products": [
+          {
+            "id": 0,
+            "productName": "cillum",
+            "productCategory": "exercitation",
+            "productBasePrice": 921.51,
+            "productVariantType": "Size",
+            "productBaseVariant": "cillum",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 13,
+                "productVariantName": "laborum"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 9,
+                "productVariantName": "nulla"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 29,
+                "productVariantName": "magna"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 19,
+                "productVariantName": "nisi"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "incididunt",
+            "productCategory": "nisi",
+            "productBasePrice": 241.4,
+            "productVariantType": "Color",
+            "productBaseVariant": "id",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 36,
+                "productVariantName": "esse"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 31,
+                "productVariantName": "adipisicing"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "aute",
+            "productCategory": "pariatur",
+            "productBasePrice": 869.35,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "voluptate",
+            "productVariants": []
+          },
+          {
+            "id": 3,
+            "productName": "fugiat",
+            "productCategory": "proident",
+            "productBasePrice": 187.15,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "quis",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 18,
+                "productVariantName": "dolor"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 32,
+                "productVariantName": "adipisicing"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 5,
+                "productVariantName": "proident"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 41,
+                "productVariantName": "aute"
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "productName": "excepteur",
+            "productCategory": "magna",
+            "productBasePrice": 513.39,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "id",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 47,
+                "productVariantName": "labore"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "YOGASM",
+        "address": "459 Bayard Street, Caroleen, Colorado, 664",
+        "about": "eu",
+        "rating": 1.98,
+        "products": [
+          {
+            "id": 0,
+            "productName": "ut",
+            "productCategory": "do",
+            "productBasePrice": 486.3,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "mollit",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 2,
+                "productVariantName": "qui"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 48,
+                "productVariantName": "sit"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 49,
+                "productVariantName": "aliqua"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "ipsum",
+            "productCategory": "laborum",
+            "productBasePrice": 334.13,
+            "productVariantType": "Color",
+            "productBaseVariant": "eiusmod",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 42,
+                "productVariantName": "elit"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 43,
+                "productVariantName": "tempor"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "MEDIOT",
+        "address": "937 Clay Street, Martinez, Massachusetts, 2823",
+        "about": "culpa",
+        "rating": 2.16,
+        "products": [
+          {
+            "id": 0,
+            "productName": "commodo",
+            "productCategory": "sit",
+            "productBasePrice": 354.69,
+            "productVariantType": "Color",
+            "productBaseVariant": "ullamco",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 26,
+                "productVariantName": "sint"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 28,
+                "productVariantName": "excepteur"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 12,
+                "productVariantName": "enim"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 6,
+                "productVariantName": "commodo"
+              }
+            ]
+          },
+          {
+            "id": 1,
+            "productName": "eu",
+            "productCategory": "exercitation",
+            "productBasePrice": 191.7,
+            "productVariantType": "Size",
+            "productBaseVariant": "Lorem",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 25,
+                "productVariantName": "non"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 35,
+                "productVariantName": "fugiat"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 5,
+                "productVariantName": "culpa"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 34,
+                "productVariantName": "qui"
+              }
+            ]
+          },
+          {
+            "id": 2,
+            "productName": "reprehenderit",
+            "productCategory": "non",
+            "productBasePrice": 507.23,
+            "productVariantType": "Weight (kg)",
+            "productBaseVariant": "culpa",
+            "productVariants": []
+          },
+          {
+            "id": 3,
+            "productName": "ea",
+            "productCategory": "culpa",
+            "productBasePrice": 350.58,
+            "productVariantType": "Size",
+            "productBaseVariant": "ea",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 29,
+                "productVariantName": "laboris"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 0,
+                "productVariantName": "consequat"
+              },
+              {
+                "id": 2,
+                "productPriceModifier": 8,
+                "productVariantName": "cupidatat"
+              },
+              {
+                "id": 3,
+                "productPriceModifier": 30,
+                "productVariantName": "laboris"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "area": "Saticoy",
+    "shops": [
+      {
+        "name": "INJOY",
+        "address": "193 Fountain Avenue, Dana, Nevada, 3809",
+        "about": "anim",
+        "rating": 4.86,
+        "products": [
+          {
+            "id": 0,
+            "productName": "ullamco",
+            "productCategory": "voluptate",
+            "productBasePrice": 124.44,
+            "productVariantType": "Size",
+            "productBaseVariant": "velit",
+            "productVariants": [
+              {
+                "id": 0,
+                "productPriceModifier": 4,
+                "productVariantName": "nostrud"
+              },
+              {
+                "id": 1,
+                "productPriceModifier": 5,
+                "productVariantName": "ea"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
