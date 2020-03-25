@@ -31,6 +31,7 @@ class ShoppingCart extends StatelessWidget {
     return StreamProvider<UserData>.value(
       value: DataBaseService(uid: user.uid).getUserData,
       child: Scaffold(
+        backgroundColor: Colors.blue[100],
         appBar: AppBar(
           title: Text('Shopping Cart'),
           backgroundColor: Colors.blue[400],
