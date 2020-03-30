@@ -3,7 +3,6 @@ import 'package:flutter_assessmet/models/userDataModel.dart';
 import 'package:flutter_assessmet/services/userData.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_assessmet/models/user.dart';
-import 'package:flutter_assessmet/services/database.dart';
 
 class ProductTile extends StatelessWidget {
   final products;

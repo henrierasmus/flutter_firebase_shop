@@ -1,6 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter_assessmet/models/userDataModel.dart';
-import 'package:flutter_assessmet/models/userDataModel.dart';
 
 class DataBaseService {
   final String uid;

@@ -4,11 +4,9 @@ import 'package:flutter_assessmet/screens/shopping_cart/user_display.dart';
 import 'package:provider/provider.dart';
 import 'package:flutter_assessmet/services/userData.dart';
 import 'package:flutter_assessmet/models/userDataModel.dart';
-import 'package:flutter_assessmet/services/auth.dart';
 import 'package:flutter_assessmet/models/user.dart';
 
 class ShoppingCart extends StatelessWidget {
-  final AuthService _auth = AuthService();
 
   ShoppingCart({this.user});
   final user;
