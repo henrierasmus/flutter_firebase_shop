@@ -12,9 +12,7 @@ class UserDataDisplay extends StatefulWidget {
 class _UserDataDisplayState extends State<UserDataDisplay> {
   @override
   Widget build(BuildContext context) {
-    final userData = Provider.of<UserData>(context);
-    print('object');
-    print(userData);
+    final userData = Provider.of<UserData>(context) ?? [];
 
     return ListView.builder(
       itemCount: 5,

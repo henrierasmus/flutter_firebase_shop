@@ -57,15 +57,16 @@ class _SignInState extends State<SignIn> {
                         }),
                     SizedBox(height: 20.0),
                     TextFormField(
-                        decoration:
-                            textInputDecoration.copyWith(hintText: 'Password'),
-                        validator: (val) => val.length < 6
-                            ? 'A password must be atleast 6 characters long'
-                            : null,
-                        obscureText: true,
-                        onChanged: (val) {
-                          setState(() => password = val);
-                        }),
+                      decoration:
+                          textInputDecoration.copyWith(hintText: 'Password'),
+                      validator: (val) => val.length < 6
+                          ? 'A password must be atleast 6 characters long'
+                          : null,
+                      obscureText: true,
+                      onChanged: (val) {
+                        setState(() => password = val);
+                      },
+                    ),
                     SizedBox(height: 20.0),
                     RaisedButton(
                       color: Colors.pink[300],
@@ -79,11 +80,13 @@ class _SignInState extends State<SignIn> {
                           dynamic result = await _auth
                               .signInWithEmailAndPassword(email, password);
                           if (result == null) {
-                            setState(() {
-                              error =
-                                  'Could not sign in with provided credentials';
-                              loading = false;
-                            });
+                            setState(
+                              () {
+                                error =
+                                    'Could not sign in with provided credentials';
+                                loading = false;
+                              },
+                            );
                           }
                         }
                       },
@@ -95,6 +98,7 @@ class _SignInState extends State<SignIn> {
                   ],
                 ),
               ),
-            ));
+            ),
+          );
   }
 }

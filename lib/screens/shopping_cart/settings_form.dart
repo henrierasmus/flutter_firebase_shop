@@ -20,49 +20,54 @@ class _SettingsFormState extends State<SettingsForm> {
   @override
   Widget build(BuildContext context) {
     final user = Provider.of<User>(context);
-    print(user.uid);
 
     return StreamBuilder<UserData>(
-        stream: DataBaseService(uid: user.uid).getUserData,
-        builder: (context, snapshot) {
-          if (snapshot.hasData) {
-            UserData userData = snapshot.data;
-            print('test');
-            print(userData.name);
+      stream: DataBaseService(uid: user.uid).getUserData,
+      builder: (context, snapshot) {
+        if (snapshot.hasData) {
+          UserData userData = snapshot.data;
 
-            return Form(
-              key: _formKey,
-              child: Column(
-                children: <Widget>[
-                  Text(
-                    'Update your username',
-                    style: TextStyle(fontSize: 18.0),
-                  ),
-                  SizedBox(
-                    height: 20.0,
-                  ),
-                  TextFormField(
-                    initialValue: userData.name,
-                    decoration: textInputDecoration,
-                    validator: (val) =>
-                        val.isEmpty ? 'Please enter a username' : userData.name,
-                    onChanged: (val) => setState(() => _currentName = val),
-                  ),
-                  RaisedButton(
-                    color: Colors.pink[400],
-                    child: Text('Update'),
-                    onPressed: () async {
-                      print(_currentName);
-                    },
-                  )
-                ],
-              ),
-            );
-          } else {
-            print('error');
-
-            return Loading();
-          }
-        });
+          return Form(
+            key: _formKey,
+            child: Column(
+              children: <Widget>[
+                Text(
+                  'Update your username',
+                  style: TextStyle(fontSize: 18.0),
+                ),
+                SizedBox(
+                  height: 20.0,
+                ),
+                TextFormField(
+                  initialValue: userData.name,
+                  decoration: textInputDecoration,
+                  validator: (val) =>
+                      val.isEmpty ? 'Please enter a username' : null,
+                  onChanged: (val) => setState(() => _currentName = val),
+                ),
+                RaisedButton(
+                  color: Colors.pink[400],
+                  child: Text('Update'),
+                  onPressed: () async {
+                    print(user.uid);
+                    print(_currentName);
+                    if (_formKey.currentState.validate()) {
+                      await DataBaseService(uid: user.uid).updateUserdata(
+                        _currentName ?? userData.name,
+                        userData.shoppingCart,
+                      );
+                      Navigator.pop(context);
+                    }
+                  },
+                )
+              ],
+            ),
+          );
+        } else {
+          print('error');
+          return Loading();
+        }
+      },
+    );
   }
 }
